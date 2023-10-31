@@ -1,0 +1,13 @@
+.footer{
+  color:rgba(16, 24, 16, 0.872);
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  height: 50px;
+}
+.developer{
+  color:rgba(16, 24, 16, 0.872);
+}
+.developer:hover{
+  font-weight: 700;
+}
